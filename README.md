@@ -1,2 +1,2 @@
-tile-tp1
+TILE-TP1
 ========

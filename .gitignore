@@ -11,4 +11,9 @@ TP1-TILE/.idea/vcs.xml
 TP1-TILE/.idea/workspace.xml
 TP1-TILE/TP1-TILE.iml
 TP1-TILE/out/production/TP1-TILE/com/company/Main.class
-TP1-TILE/src/com/company/Main.java
+ml-10M100K/README.html
+ml-10M100K/allbut.pl
+ml-10M100K/movies.dat
+ml-10M100K/ratings.dat
+ml-10M100K/split_ratings.sh
+ml-10M100K/tags.dat
